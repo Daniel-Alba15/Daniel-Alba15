@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/daniel-alba-quintero-8299b7210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="daniel-alba-quintero-8299b7210" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/daniel-alba-quintero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="daniel-alba-quintero-8299b7210" height="30" width="40" /></a>
 <a href="https://codepen.io/danielalba15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/codepen.svg" alt="danielalba15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/daniel_alba15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="daniel_alba15" height="30" width="40" /></a>
 </p>
